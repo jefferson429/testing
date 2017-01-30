@@ -19,4 +19,4 @@ I had a bit of trouble with this part. Originally I'd went for the book _Queer T
 
 ![Cover](20170129_203310.jpg)
 ![Inside Cover] (20170129_203314.jpg)
-![Random Page] ()
+![Random Page] (20170129_203325.jpg)
