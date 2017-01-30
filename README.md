@@ -9,7 +9,8 @@
 
 ### Internal Evidence
 
-I think this passage, either spoken by Lady Buck-and-Balk or her friend Tilly Tweed-In-Blood, shows how a romantic relationship between a woman and another woman was so frowned upon because during that time many people were used to the traditional relationship between a man and a woman
+I think this passage, either spoken by Lady Buck-and-Balk or her friend Tilly Tweed-In-Blood, shows how a romantic relationship between a woman and another woman was so frowned upon because during that time, and even now, many people were used to the traditional relationship between a man and a woman. To think anything else other than that was an abomination. This book reminds me so much of modern day Christians because no matter how long Lesbianism has been around, people still do not accept that love comes in different ways. No one ever said that love was just limited to only a man and a woman.
+
 
 ### External Evidence
 
@@ -18,4 +19,4 @@ I had a bit of trouble with this part. Originally I'd went for the book _Queer T
 
 ![Cover](20170129_203310.jpg)
 ![Inside Cover] (20170129_203314.jpg)
-![Random Page] ()
+![Random Page] (20170129_203310.jpg)
