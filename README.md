@@ -1,36 +1,19 @@
 ## Linking Internal and External Evidence in Barnes
 
 
+**Goal**: Find an internal and external connection to Djuna Barnes' _Ladies Almanack_ and a source from Harner.
+
+### Passage
+
+"Most wretchedly never that I have heard of, nor one such Pair seen later in a Bed of Matrimony, tied up, Bosom to Bosom, Braid to Braid, Womb to Womb! But have, ever since the instigation of that Alliance, lain abed out of Wedlock, sinning in a double and similar Sin ; rising unprovided for by Church or Cerificate ; Fornicating in an Evil so exactly of a piece, that the Judgement Call must be answered in a Trembling Tandem !" (Barnes 19)
+
+### Internal Evidence
+
+I think this passage, either spoken by Lady Buck-and-Balk or her friend Tilly Tweed-In-Blood, shows how a romantic relationship between a woman and another woman was so frowned upon because during that time many people were used to the traditional relationship between a man and a woman
+
+### External Evidence
+
+I had a bit of trouble with this part. Originally I'd went for the book _Queer Theory_ by Joan Nordquist, as mentioned in Harner's chapter _U. Literature Related Topics and Sources_, but came up short when I noticed it was just a pages upon pages of sources to other LGBTQ books. So I decided to try again with another book, this time _The Lesbian in Literature_ by Gene Damon, Jan Watson and Robin Jordan, only yo have the ** exact same results** . Despite only getting sources to other articles or books, the biggest thing I take from this is that Djuna Barnes is only one of many female authors that create stories with some for of homosexuality in it, especially in such a large portion of it. 
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jefferson429/testing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Cover]()
