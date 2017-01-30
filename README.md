@@ -16,4 +16,6 @@ I think this passage, either spoken by Lady Buck-and-Balk or her friend Tilly Tw
 I had a bit of trouble with this part. Originally I'd went for the book _Queer Theory_ by Joan Nordquist, as mentioned in Harner's chapter _U. Literature Related Topics and Sources_, but came up short when I noticed it was just a pages upon pages of sources to other LGBTQ books. So I decided to try again with another book, this time _The Lesbian in Literature_ by Gene Damon, Jan Watson and Robin Jordan, only yo have the ** exact same results** . Despite only getting sources to other articles or books, the biggest thing I take from this is that Djuna Barnes is only one of many female authors that create stories with some for of homosexuality in it, especially in such a large portion of it. 
 
 
-![Cover]()
+![Cover](20170129_203310.jpg)
+![Inside Page] ()
+![Random Page] ()
