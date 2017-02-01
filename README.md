@@ -22,5 +22,5 @@ I had a bit of trouble with this part. Originally I'd went for the book _Queer T
 ![Random Page](20170129_203325.jpg)
 
 
-![[It's a twine]](https://jefferson429.github.io/testing/Published.html)
-![[It's the same]](Published.html)
+![It's a twine](https://jefferson429.github.io/testing/Published.html)
+![It's the same](Published.html)
