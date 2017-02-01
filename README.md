@@ -23,4 +23,4 @@ I had a bit of trouble with this part. Originally I'd went for the book _Queer T
 
 
 ![[It's a twine]](https://jefferson429.github.io/testing/Published.html)
-![I[t's the same]](Published.html)
+![[It's the same]](Published.html)
