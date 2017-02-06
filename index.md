@@ -23,4 +23,4 @@ I had a bit of trouble with this part. Originally I'd went for the book _Queer T
 
 
 [It's a twine](https://jefferson429.github.io/testing/Published.html)
-[It's the same](857e966.html)
+[It's the same](Work.html)
