@@ -22,4 +22,4 @@ I had a bit of trouble with this part. Originally I'd went for the book _Queer T
 ![Random Page](20170129_203325.jpg)
 
 
-[Continue Your Work Twine](Work.html)
+### [Continue Your Work Twine](Work.html)
